@@ -12,7 +12,6 @@ o Menghitung pengeluaran dan pemasukan
 o Menampilkan diagram pengeluaran dan pemasukan
 o Download laporan keuangan
 - Autentikasi
-- Penyimpanan di local storage
 Team Member:
 - Jason Evansaputra Sudargo
 - Yongky Alexander Tristan
